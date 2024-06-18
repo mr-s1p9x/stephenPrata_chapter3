@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.28)
+project(chapter_3)
+
+set(CMAKE_CXX_STANDARD 17)
+
+#add_executable(chapter_3 main.cpp)
+#add_executable(chapter_3 exceed.cpp)
+#add_executable(chapter_3 hexoct1.cpp)
+#add_executable(chapter_3 morechar.cpp)
+#add_executable(chapter_3 bondini.cpp)
+#add_executable(chapter_3 floatnum.cpp)
+#add_executable(chapter_3 arith.cpp)
+#add_executable(chapter_3 divide.cpp)
+#add_executable(chapter_3 modulus.cpp)
+#add_executable(chapter_3 assign.cpp)
+add_executable(chapter_3 typecast.cpp)
