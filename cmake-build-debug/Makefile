@@ -128,29 +128,29 @@ chapter_3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/build
 .PHONY : chapter_3/fast
 
-typecast.obj: typecast.cpp.obj
-.PHONY : typecast.obj
+practice.obj: practice.cpp.obj
+.PHONY : practice.obj
 
 # target to build an object file
-typecast.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/typecast.cpp.obj
-.PHONY : typecast.cpp.obj
+practice.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/practice.cpp.obj
+.PHONY : practice.cpp.obj
 
-typecast.i: typecast.cpp.i
-.PHONY : typecast.i
+practice.i: practice.cpp.i
+.PHONY : practice.i
 
 # target to preprocess a source file
-typecast.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/typecast.cpp.i
-.PHONY : typecast.cpp.i
+practice.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/practice.cpp.i
+.PHONY : practice.cpp.i
 
-typecast.s: typecast.cpp.s
-.PHONY : typecast.s
+practice.s: practice.cpp.s
+.PHONY : practice.s
 
 # target to generate assembly for a file
-typecast.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/typecast.cpp.s
-.PHONY : typecast.cpp.s
+practice.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\chapter_3.dir\build.make CMakeFiles/chapter_3.dir/practice.cpp.s
+.PHONY : practice.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... chapter_3
-	@echo ... typecast.obj
-	@echo ... typecast.i
-	@echo ... typecast.s
+	@echo ... practice.obj
+	@echo ... practice.i
+	@echo ... practice.s
 .PHONY : help
 
 

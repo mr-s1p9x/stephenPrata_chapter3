@@ -68,28 +68,28 @@ include CMakeFiles/chapter_3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/chapter_3.dir/flags.make
 
-CMakeFiles/chapter_3.dir/typecast.cpp.obj: CMakeFiles/chapter_3.dir/flags.make
-CMakeFiles/chapter_3.dir/typecast.cpp.obj: C:/Users/s1pex/Desktop/workspace/C++/CPP_BOOK/stephenPrata_chapter3-main/typecast.cpp
-CMakeFiles/chapter_3.dir/typecast.cpp.obj: CMakeFiles/chapter_3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/chapter_3.dir/typecast.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/chapter_3.dir/typecast.cpp.obj -MF CMakeFiles\chapter_3.dir\typecast.cpp.obj.d -o CMakeFiles\chapter_3.dir\typecast.cpp.obj -c C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\typecast.cpp
+CMakeFiles/chapter_3.dir/practice.cpp.obj: CMakeFiles/chapter_3.dir/flags.make
+CMakeFiles/chapter_3.dir/practice.cpp.obj: C:/Users/s1pex/Desktop/workspace/C++/CPP_BOOK/stephenPrata_chapter3-main/practice.cpp
+CMakeFiles/chapter_3.dir/practice.cpp.obj: CMakeFiles/chapter_3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/chapter_3.dir/practice.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/chapter_3.dir/practice.cpp.obj -MF CMakeFiles\chapter_3.dir\practice.cpp.obj.d -o CMakeFiles\chapter_3.dir\practice.cpp.obj -c C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\practice.cpp
 
-CMakeFiles/chapter_3.dir/typecast.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chapter_3.dir/typecast.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\typecast.cpp > CMakeFiles\chapter_3.dir\typecast.cpp.i
+CMakeFiles/chapter_3.dir/practice.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chapter_3.dir/practice.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\practice.cpp > CMakeFiles\chapter_3.dir\practice.cpp.i
 
-CMakeFiles/chapter_3.dir/typecast.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chapter_3.dir/typecast.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\typecast.cpp -o CMakeFiles\chapter_3.dir\typecast.cpp.s
+CMakeFiles/chapter_3.dir/practice.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chapter_3.dir/practice.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\s1pex\Desktop\workspace\C++\CPP_BOOK\stephenPrata_chapter3-main\practice.cpp -o CMakeFiles\chapter_3.dir\practice.cpp.s
 
 # Object files for target chapter_3
 chapter_3_OBJECTS = \
-"CMakeFiles/chapter_3.dir/typecast.cpp.obj"
+"CMakeFiles/chapter_3.dir/practice.cpp.obj"
 
 # External object files for target chapter_3
 chapter_3_EXTERNAL_OBJECTS =
 
-chapter_3.exe: CMakeFiles/chapter_3.dir/typecast.cpp.obj
+chapter_3.exe: CMakeFiles/chapter_3.dir/practice.cpp.obj
 chapter_3.exe: CMakeFiles/chapter_3.dir/build.make
 chapter_3.exe: CMakeFiles/chapter_3.dir/linkLibs.rsp
 chapter_3.exe: CMakeFiles/chapter_3.dir/objects1.rsp

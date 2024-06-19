@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/chapter_3.dir/typecast.cpp.obj"
-  "CMakeFiles/chapter_3.dir/typecast.cpp.obj.d"
+  "CMakeFiles/chapter_3.dir/practice.cpp.obj"
+  "CMakeFiles/chapter_3.dir/practice.cpp.obj.d"
   "chapter_3.exe"
   "chapter_3.exe.manifest"
   "chapter_3.pdb"
